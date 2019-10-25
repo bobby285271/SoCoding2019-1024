@@ -77,9 +77,9 @@ Flag：`NO ERROR`
 
 在源码中找到网址，发现了一个图片影写网站！悄咪咪的把页面中的微信图保存并解密，得到一串 Unicode。
 
-根据提示将 Unicode 转换成 ASCII，完成！sqltql！
+根据提示将 Unicode 转换成 ASCII，完成！sdltql！
 
-Flag：`sqltql`
+Flag：`sdltql`
 
 <img src="./pic/Level6.png"/>
 <img src="./pic/L6_A.png"/>
