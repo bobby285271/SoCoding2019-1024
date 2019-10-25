@@ -1,15 +1,17 @@
-# SoCoding 1024 Level 7
+# SoCoding 1024 
 
-## Getting Started
+## 致谢
 
-To get the flag, start by not writing any code.
+首先感谢所有参加我们活动的同学，是你们的参与使得这个活动能够继续下去。
 
-```
+感谢软协 1024 青龙项目组的每一位同学，以及软协其他成员对我们的帮助。
 
-```
+特地鸣谢 ag、jz 两位工具人给予我们的巨大帮助。
 
-Good luck!
+感谢广州听心阁文化教育咨询有限公司对本次活动的大力支持。 
 
-## Contributing
+### 大家明年 1024 见！
 
-You don't.
+~~那么明年又该轮到谁（复数）接锅了呢？~~
+
+
