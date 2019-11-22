@@ -1,6 +1,6 @@
 # SoCoding 1024 
 
-[点击这里看题解 >>>](https://bobby285271.github.io/1024/)
+[点击这里看题解 >>>](https://bobby285271.github.io/SoCoding2019-1024/)
 
 ## 致谢
 
